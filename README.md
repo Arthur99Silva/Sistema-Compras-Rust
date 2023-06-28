@@ -1,5 +1,6 @@
 # Sistema-Compras-Rust
-![image](https://github.com/Arthur99Silva/Sistema-Compras-Rust/assets/51514914/9950960e-687f-4bd4-8e25-cca1164569b5)
+![image](https://github.com/Arthur99Silva/Sistema-Compras-Rust/assets/51514914/9e1bafab-f26e-4e0f-83be-0e042ca04751)
+
 Desenvolver um sistema utilizando a linguagem escolhida pela equipe. O sistema deve apresentar um menu em linha de comando que permite a inclusão, alteração, remoção e visualização dos dados das entidades abaixo. As classes das entidades devem conter apenas atributos e métodos que manipulam os dados. A interface em linha de comando deve ser implementada em uma ou mais classes separadas:
 
 Pessoa (abstrata): nome (String), endereço (String);
